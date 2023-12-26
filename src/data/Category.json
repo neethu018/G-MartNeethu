@@ -1,67 +1,65 @@
 [
-    {
-        "title": "Men",
-        "childrens": [
-            {
-                "title": "Ehinic wear",
-                "path": "/"
-            },
-            {
-                "title": "Traditional wear",
-                "path": "/"
-            },
-            {
-                "title": "Traditional wear",
-                "path": "/"
-            },
-            {
-                "title": "Traditional wear",
-                "path": "/"
-            }
-        ]
-        },
-        {
-            "title": "Women",
-            "childrens": [
-                {
-                    "title": "Ehinic wear",
-                    "path": "/"
-                },
-                {
-                    "title": "Traditional wear",
-                    "path": "/"
-                },
-                {
-                    "title": "Traditional wear",
-                    "path": "/"
-                },
-                {
-                    "title": "Traditional wear",
-                    "path": "/"
-                }
-            ]
-            },
-            {
-                "title": "Kids",
-                "childrens": [
-                    {
-                        "title": "Ehinic wear",
-                        "path": "/"
-                    },
-                    {
-                        "title": "Traditional wear",
-                        "path": "/"
-                    },
-                    {
-                        "title": "Traditional wear",
-                        "path": "/"
-                    },
-                    {
-                        "title": "Traditional wear",
-                        "path": "/"
-                    }
-                ]
-                }
-            
-          
+  {
+    "title": "Men",
+    "childrens": [
+      {
+        "title": "Ehinic wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "Women",
+    "childrens": [
+      {
+        "title": "Ehinic wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "Kids",
+    "childrens": [
+      {
+        "title": "Ehinic wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      },
+      {
+        "title": "Traditional wear",
+        "path": "/"
+      }
+    ]
+  }
 ]
