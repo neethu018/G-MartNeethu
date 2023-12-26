@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Stylish blue top",
+      "image": "https://www.jiomart.com/images/product/original/441148989_navy/cross-stitch-print-straight-kurta-model-441148989_navy-0-202311250520.jpg?im=Resize=(600,750)",
+      "newPrice": 350,
+      "oldPrice": 455,
+      "discount": 50
+    },
+    {
+        "id": 2,
+        "name": "Stylish blue t",
+        "image": "https://www.jiomart.com/images/product/original/441148989_navy/cross-stitch-print-straight-kurta-model-441148989_navy-0-202311250520.jpg?im=Resize=(600,750)",
+        "newPrice": 350,
+        "oldPrice": 455,
+        "discount": 50
+      },
+      
+      {
+        "id": 3,
+        "name": "Stylish blue ",
+        "image": "https://www.jiomart.com/images/product/original/441148989_navy/cross-stitch-print-straight-kurta-model-441148989_navy-0-202311250520.jpg?im=Resize=(600,750)",
+        "newPrice": 350,
+        "oldPrice": 455,
+        "discount": 50
+      },
+      {
+        "id": 4,
+        "name": "Stylish blue ",
+        "image": "https://www.jiomart.com/images/product/original/441148989_navy/cross-stitch-print-straight-kurta-model-441148989_navy-0-202311250520.jpg?im=Resize=(600,750)",
+        "newPrice": 350,
+        "oldPrice": 455,
+        "discount": 50
+      },
+      {
+        "id": 5,
+        "name": "Stylish blue ",
+        "image": "https://www.jiomart.com/images/product/original/441148989_navy/cross-stitch-print-straight-kurta-model-441148989_navy-0-202311250520.jpg?im=Resize=(600,750)",
+        "newPrice": 350,
+        "oldPrice": 455,
+        "discount": 50
+      }
+    
+  ]
+  

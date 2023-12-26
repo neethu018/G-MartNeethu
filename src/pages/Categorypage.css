@@ -1,0 +1,51 @@
+.category_page{
+    display: flex;
+    flex-direction: row;
+   
+}
+.category_list{
+    flex: 0.1;
+}
+.category_items{
+    flex: 0.9;
+    background-color: beige;
+}
+#card img{
+    overflow: hidden;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+    width: 250px;
+}
+#card:hover img{
+    transform: scale(1.1);
+}
+#card{
+    margin-left: 10px;
+    width: 293px;
+    cursor: pointer;
+}
+.new_price{
+    font-weight: bolder;
+    font-size: large; 
+    padding: 5px;
+}
+.old_price{
+   color: grey;
+   padding: 5px;
+}
+.offer_price{
+    color: rgb(20, 131, 10);
+    font-weight: bold;
+    background-color: rgb(197, 219, 197);
+    border-radius: 5px;
+    padding: 5px;
+}
+.icons{
+    margin-left: 250px;
+    color: gray;
+    position: fixed;
+}
+
+

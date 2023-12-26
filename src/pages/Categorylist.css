@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body{
+    height: 100vh;
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #1a0303;
+  }
+  .categorylist{
+    width: 260px;
+    flex-shrink: 0;
+   
+    height: 100%;
+    overflow: auto;
+  }
+  .categorylist-item{
+    padding: .75em 1em;
+    display: block;
+    transition: background-color .15s;
+    border-radius: 5px;
+  }
+  .categorylist-item:hover{
+    background-color: rgba(255, 255, 255, .1);
+  }
+  
+  .sidebar-title{
+    display: flex;
+    font-size: 1.2em;
+    justify-content: space-between;
+  }
+  .categorylist-title span i{
+    display: inline-block;
+    width: 1.5em;
+  }
+  .categorylist-title .toggle-btn{
+    cursor: pointer;
+    transition: transform .3s;
+  }
+  .categorylist-item.open > .categorylist-title .toggle-btn{
+    transform: rotate(180deg);
+  }
+  .categorylist-content{
+    padding-top: .25em;
+    height: 0;
+    overflow: hidden;
+  }
+  .categorylist-item.open > .categorylist-content{
+    height: auto;
+  }
+  
+  .categorylist-item.plain{
+    color: #1d0f0f;
+    text-decoration: none;
+  }
+  .categorylist-item.plain:hover{
+    text-decoration: underline;
+  }
+  .categorylist-item.plain i{
+    display: inline-block;
+    width: 1.7em;
+  }
